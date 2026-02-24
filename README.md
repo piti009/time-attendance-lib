@@ -1,3 +1,4 @@
+youyube : https://www.youtube.com/watch?v=PdB1QWBS-eQ
 📷 ระบบบันทึกเวลาเข้างานด้วยใบหน้าและ GPS (Face Recognition Attendance with GPS) เว็บแอปพลิเคชันสำหรับบันทึกเวลาเข้า-ออกงาน โดยใช้เทคโนโลยี จดจำใบหน้า (Face Recognition) ผ่านไลบรารี face-api.js ร่วมกับระบบ ตรวจสอบพิกัด (GPS Geofencing) ทำงานแบบ Serverless บน Google Apps Script และเก็บข้อมูลทั้งหมดลงใน Google Sheets โดยตรง
 
 ✨ ฟีเจอร์หลัก (Key Features) Serverless 100%: ไม่ต้องเช่าโฮสติ้ง รันบน Google Cloud (Apps Script) ฟรี
